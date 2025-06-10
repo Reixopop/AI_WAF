@@ -19,7 +19,7 @@ This AI-based WAF aims to enhance detection by learning from traffic patterns an
 
    * Trained machine learning models such as:
      * Random forest
-     * 
+       
    * Used labeled traffic data to teach the model to distinguish between benign and harmful traffic.
 
 3. **Real-time Traffic Analysis**
